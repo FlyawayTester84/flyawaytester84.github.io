@@ -24,7 +24,6 @@ theme: minima
 #remote_theme: jekyll/minima
 
 plugins:
-  Runze Yu's Homepage
   - jekyll-seo-tag
 
 # Theme-specific settings
