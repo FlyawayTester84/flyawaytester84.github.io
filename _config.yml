@@ -1,4 +1,4 @@
-title: Your awesome title
+title: Runze Yu
 author:
   name: Runze Yu
   email: ryu@math.harvard.edu
@@ -6,9 +6,12 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  Runze Yu is a second year graduate student at Harvard University. He is interested in applying Seiberg-Witten theory to 
+  detect exotic phenomena in four dimensions. 
+  
+  # Write an awesome description for your new site here. You can edit this line
+  # in _config.yml. It will appear in your document head meta (for Google search
+  # results) and in your feed.xml site description.
 
 # Build settings
 
@@ -21,7 +24,7 @@ theme: minima
 #remote_theme: jekyll/minima
 
 plugins:
-  - jekyll-feed
+  Runze Yu's Homepage
   - jekyll-seo-tag
 
 # Theme-specific settings
