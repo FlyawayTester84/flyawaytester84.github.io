@@ -18,6 +18,9 @@ description: >
 # - _pages/research.md
 # - _pages/coursework.md
 
+include: 
+  - _pages
+
 nav_pages:
   - _pages/research.md
   - _pages/coursework.md
@@ -48,7 +51,7 @@ plugins:
 #   silence_deprecations: [import]
 
 # stop feeds from showing on homepage
-paginate: false
+paginate: 0
 
 # Minima-specific settings (applicable to Minima v3 and above only)
 # -----------------------------------------------------------------
@@ -57,7 +60,7 @@ paginate: false
 #   `minima` key.*
 #
 minima:
-  hide_site_feed_link: true
+  hide_site_feed_link: 1
   skin: auto
 #
 #   Minima skin selection. Available skins are:
