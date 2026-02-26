@@ -3,8 +3,6 @@ layout: home
 title: Runze Yu
 ---
 
-# Runze Yu
-
 ## Contact
 
 **Email:** ryu [at] math [dot] harvard [dot] edu

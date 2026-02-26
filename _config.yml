@@ -11,8 +11,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
 description: >
-  This is the personal page of Runze Yu, a third-year Ph.D. student at the Math
-  Department, Harvard University, advised by Prof. Peter Kronheimer. 
+  Personal page of Runze Yu
 
 # Remove or replace the old header_pages setting (it can cause unexpected header rendering).
 # header_pages:
@@ -56,6 +55,7 @@ minima:
     - _pages/research.md
     - _pages/coursework.md
   hide_site_feed_link: true
+  paginate: false
 #
 #   Minima skin selection. Available skins are:
 #     * classic            Default, light color scheme.
