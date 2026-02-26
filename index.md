@@ -3,11 +3,11 @@ layout: home
 title: Runze Yu
 ---
 
-<!-- ## Contact
-
 **Email:** ryu [at] math [dot] harvard [dot] edu
 
-**Address:** Department of Mathematics, Harvard University, Cambridge, MA, 02138, USA -->
+**Address:** 1 Oxford Street, Cambridge, MA, 02138
+
+**Links to:** [Github](https://github.com/FlyawayTester84), [LinkedIn](https://www.linkedin.com/in/runze-yu-972070358/)
 
 <!-- **Links:**
 - [Google Scholar](https://scholar.google.com/)
@@ -16,15 +16,14 @@ title: Runze Yu
 
 ### About Me
 
-Welcome to my website! I am a third year Ph.D. student at Harvard University, advised by [Prof. Peter Kronheimer](https://people.math.harvard.edu/~kronheim/). I graduated from [UCLA](ucla.edu) with a major in mathematics and minor in linguistics. 
+I am a Ph.D. student at the Math Department at Harvard University. I am advised by [Prof. Peter Kronheimer](https://people.math.harvard.edu/~kronheim/). 
 
-My research focuses on gauge theory and its applications to the theory of 4-manifolds. Currently, I am interested in Seiberg-Witten theory and its stable homotopy refinements. 
+My research focuses on gauge theory and its applications to the geometry and topology of 4-manifolds. Currently, I am interested in the Seiberg-Witten theory and its stable homotopy refinements. 
 
-<!-- ## Research Interests
+Before Harvard, I graduated from [UCLA](https://www.ucla.edu) with a bachelor's degree in mathematics and a minor in linguistics in 2023. I was advised by [Prof. Raphael Rouquier](https://www.math.ucla.edu/~rouquier/) on a project about cactus groups and by [Prof. Tim Hunter](https://timhunter.humspace.ucla.edu/) on a project about weighted context-free grammars. 
 
-- [Interest 1]
-- [Interest 2]
-- [Interest 3] -->
+Outside of research, I enjoy practicing Kendo, playing chess, and reading. 
+
 
 ### Education
 

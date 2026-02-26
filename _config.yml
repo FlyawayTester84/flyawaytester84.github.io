@@ -53,7 +53,7 @@ show_post_feeds: 0
 #
 minima:
   hide_site_feed_link: 1
-  skin: solarized-light
+  skin: auto
   nav_pages:
     - _pages/research.md
     - _pages/coursework.md
