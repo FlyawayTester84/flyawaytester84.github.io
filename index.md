@@ -31,6 +31,10 @@ My research focuses on gauge theory and its applications to the theory of 4-mani
 - **Ph.D.**, Harvard University, Expected 2028
 - **B.S.**, University of California, Los Angeles, 2023
 
+<!-- ### You might see me before at
+
+- SLMath Summer School in Geometric Structures -->
+
 <!-- ## Publications
 
 ### Recent Papers
