@@ -53,10 +53,11 @@ show_post_feeds: 0
 #
 minima:
   hide_site_feed_link: 1
-  skin: auto
+  skin: solarized-light
   nav_pages:
     - _pages/research.md
     - _pages/coursework.md
+    - index.md
 #
 #   Minima skin selection. Available skins are:
 #     * classic            Default, light color scheme.
