@@ -14,9 +14,10 @@ description: >
   This is the personal page of Runze Yu, a third-year Ph.D. student at the Math
   Department, Harvard University, advised by Prof. Peter Kronheimer. 
 
-header_pages:
-- _pages/research.md
-- _pages/coursework.md
+# Remove or replace the old header_pages setting (it can cause unexpected header rendering).
+# header_pages:
+# - _pages/research.md
+# - _pages/coursework.md
 
 
 # Build settings
@@ -34,7 +35,6 @@ theme: minima
 #
 # Minima requires the following plugins:
 plugins:
- - jekyll-feed
  - jekyll-seo-tag
  - jekyll-sitemap
 #
@@ -51,7 +51,12 @@ plugins:
 #  *All described config keys below should be nested under the top-level
 #   `minima` key.*
 #
-# minima:
+minima:
+  nav_pages:
+    - _pages/research.md
+    - _pages/coursework.md
+  hide_site_feed_link: true
+#
 #   Minima skin selection. Available skins are:
 #     * classic            Default, light color scheme.
 #     * dark               Dark variant of the classic skin.
@@ -60,13 +65,6 @@ plugins:
 #     * solarized-dark     Dark variant of solarized color scheme.
 #     * solarized          Adaptive skin for solarized color scheme skins.
 #   skin: auto
-#
-#   Specific pages for site navigation.
-#     If you wish to link only specific pages in the site-navigation, use this
-#     and list the `path` property (as represented via Liquid) of the pages in
-#     the order they should be rendered.
-#   nav_pages:
-#     - about.md
 #
 #   Set to `true` to show excerpts on the homepage.
 #   show_excerpts: false

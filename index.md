@@ -11,10 +11,10 @@ title: Runze Yu
 
 **Address:** Department of Mathematics, Harvard University, Cambridge, MA, 02138, USA
 
-**Links:**
+<!-- **Links:**
 - [Google Scholar](https://scholar.google.com/)
 - [GitHub](https://github.com/)
-- [LinkedIn](https://linkedin.com/)
+- [LinkedIn](https://linkedin.com/) -->
 
 ## About Me
 
