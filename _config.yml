@@ -13,11 +13,6 @@ author:
 description: >
   Personal page of Runze Yu
 
-# Remove or replace the old header_pages setting (it can cause unexpected header rendering).
-# header_pages:
-# - _pages/research.md
-# - _pages/coursework.md
-
 include: 
   - _pages
 
@@ -52,6 +47,7 @@ plugins:
 
 # stop feeds from showing on homepage
 paginate: 0
+show_post_feeds: 0
 
 # Minima-specific settings (applicable to Minima v3 and above only)
 # -----------------------------------------------------------------

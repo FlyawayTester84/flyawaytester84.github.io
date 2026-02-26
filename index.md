@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Runze Yu
+nav_exclude: 1
 ---
 
 ## Contact
