@@ -1,21 +1,20 @@
 ---
 layout: home
 title: Runze Yu
-nav_exclude: 1
 ---
 
-## Contact
+<!-- ## Contact
 
 **Email:** ryu [at] math [dot] harvard [dot] edu
 
-**Address:** Department of Mathematics, Harvard University, Cambridge, MA, 02138, USA
+**Address:** Department of Mathematics, Harvard University, Cambridge, MA, 02138, USA -->
 
 <!-- **Links:**
 - [Google Scholar](https://scholar.google.com/)
 - [GitHub](https://github.com/)
 - [LinkedIn](https://linkedin.com/) -->
 
-## About Me
+### About Me
 
 Welcome to my website! I am a third year Ph.D. student at Harvard University, advised by [Prof. Peter Kronheimer](https://people.math.harvard.edu/~kronheim/). I graduated from [UCLA](ucla.edu) with a major in mathematics and minor in linguistics. 
 
@@ -27,7 +26,7 @@ My research focuses on gauge theory and its applications to the theory of 4-mani
 - [Interest 2]
 - [Interest 3] -->
 
-## Education
+### Education
 
 - **Ph.D.**, Harvard University, Expected 2028
 - **B.S.**, University of California, Los Angeles, 2023
