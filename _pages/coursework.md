@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Selected Coursework
+title: Coursework
 permalink: /coursework/
 ---
-
-# Selected Coursework
 
 ## Selected Graduate-Level Math Coursework
 - MATH 259A Mapping Class Groups and 4-Manifolds
