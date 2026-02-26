@@ -18,6 +18,10 @@ description: >
 # - _pages/research.md
 # - _pages/coursework.md
 
+nav_pages:
+  - _pages/research.md
+  - _pages/coursework.md
+
 
 # Build settings
 # --------------
@@ -43,6 +47,8 @@ plugins:
 #   quiet_deps: true
 #   silence_deprecations: [import]
 
+# stop feeds from showing on homepage
+paginate: false
 
 # Minima-specific settings (applicable to Minima v3 and above only)
 # -----------------------------------------------------------------
@@ -51,11 +57,8 @@ plugins:
 #   `minima` key.*
 #
 minima:
-  nav_pages:
-    - _pages/research.md
-    - _pages/coursework.md
   hide_site_feed_link: true
-  paginate: false
+  skin: auto
 #
 #   Minima skin selection. Available skins are:
 #     * classic            Default, light color scheme.
