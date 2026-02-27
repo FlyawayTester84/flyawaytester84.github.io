@@ -27,8 +27,8 @@ Outside of research, I enjoy practicing Kendo, playing chess, and reading.
 
 ### Education
 
-- **Ph.D.**, Harvard University, Expected 2028
-- **B.S.**, University of California, Los Angeles, 2023
+- **Ph.D.** Harvard University, Expected 2028
+- **B.S.** University of California, Los Angeles, 2023
 
 <!-- ### You might see me before at
 

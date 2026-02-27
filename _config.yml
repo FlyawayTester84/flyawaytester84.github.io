@@ -57,6 +57,7 @@ minima:
   nav_pages:
     - _pages/research.md
     - _pages/coursework.md
+    - _pages/miscellanous.md
     - index.md
 #
 #   Minima skin selection. Available skins are:
