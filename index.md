@@ -7,7 +7,8 @@ title: Runze Yu
 
 **Address:** 1 Oxford Street, Cambridge, MA, 02138
 
-**Links to:** [Github](https://github.com/FlyawayTester84), [LinkedIn](https://www.linkedin.com/in/runze-yu-972070358/)
+**Links to:** [LinkedIn](https://www.linkedin.com/in/runze-yu-972070358/)
+<!-- [Github](https://github.com/FlyawayTester84) -->
 
 ### About Me
 
@@ -23,13 +24,35 @@ Outside of research, I enjoy practicing Kendo, playing chess, and reading.
 ### Education
 
 - **Ph.D.** Harvard University, Expected 2028
+    - **Advisor** Prof. Peter Kronheimer
 - **B.S.** University of California, Los Angeles, 2023
+    - Major in mathematics, Minor in linguistics
+
+### Honors
+
+- UCLA Department of Mathematics Daus Prize, 2023
+- Honorable Mentions in Putnam Competition, 2019, 2021, 2022
 
 
 
-<!-- ### You might see me before at
+### You might've seen me at
 
-- SLMath Summer School in Geometric Structures -->
+- Simons Collaboration on Low-Dimensional Topology Annual Meeting 2026
+    - New York, NY, Mar 25, 2026 - Mar. 27, 2026
+- SLMath Summer School on Topological and Geometric Structures in Low Dimensions
+    - Berkeley, CA, July 21, 2025 - Aug 1, 2025
+- Simons Center in Geometry and Physics Workshop, Gauge Theory and Floer Homology in Low Dimensional Topology
+    - Stony Brook, NY, Apr 28, 2025 - May 2, 2025
+- Simons Collaboration on Low-Dimensional Topology Annual Meeting 2025
+    - New York, NY, Mar. 27, 2025 - Mar. 28, 2025
+- Summer School and Conference on New structures in low-dimensional topology
+    - Budapest, Hungary, July 1, 2024 - July 12, 2024
+- Graduate Student Topology and Geometry Conference 2024
+    - East Lansing, MI, Apr. 12, 2024 - Apr. 13, 2024
+- Simons Collaboration on Low-Dimensional Topology Annual Meeting 2024
+    - New York, NY, Mar. 28, 2024 - Mar. 29, 2024
+- 2024 Geometry and Topology Workshop at UCLA
+    - Los Angeles, CA, Jan. 4, 2024 - Jan. 6, 2024
 
 <!-- ## Publications
 
