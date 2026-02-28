@@ -7,12 +7,12 @@ title: Runze Yu
 
 **Address:** 1 Oxford Street, Cambridge, MA, 02138
 
-**Links to:** [LinkedIn](https://www.linkedin.com/in/runze-yu-972070358/)
+**Links to:** [Resume](/_files/resume.pdf), [CV](), [LinkedIn](https://www.linkedin.com/in/runze-yu-972070358/)
 <!-- [Github](https://github.com/FlyawayTester84) -->
 
 ### About Me
 
-I am a Ph.D. student at the Math Department at Harvard University. My advisor is [Prof. Peter Kronheimer](https://people.math.harvard.edu/~kronheim/). 
+I am a Ph.D. student at the [Math Department](https://www.math.harvard.edu/) at Harvard University. My advisor is [Prof. Peter Kronheimer](https://people.math.harvard.edu/~kronheim/). 
 
 My research focuses on gauge theory and its applications to the geometry and topology of 4-manifolds. Currently, I am interested in the Seiberg-Witten theory and its stable homotopy refinements. 
 
@@ -24,7 +24,7 @@ Outside of research, I enjoy practicing Kendo, playing chess, and reading.
 ### Education
 
 - **Ph.D.** Harvard University, Expected 2028
-    - **Advisor** Prof. Peter Kronheimer
+    - Advisor: Prof. Peter Kronheimer
 - **B.S.** University of California, Los Angeles, 2023
     - Major in mathematics, Minor in linguistics
 
@@ -41,7 +41,7 @@ Outside of research, I enjoy practicing Kendo, playing chess, and reading.
     - New York, NY, Mar 25, 2026 - Mar. 27, 2026
 - SLMath Summer School on Topological and Geometric Structures in Low Dimensions
     - Berkeley, CA, July 21, 2025 - Aug 1, 2025
-- Simons Center in Geometry and Physics Workshop, Gauge Theory and Floer Homology in Low Dimensional Topology
+- SCGP Workshop, Gauge Theory and Floer Homology in Low Dimensional Topology
     - Stony Brook, NY, Apr 28, 2025 - May 2, 2025
 - Simons Collaboration on Low-Dimensional Topology Annual Meeting 2025
     - New York, NY, Mar. 27, 2025 - Mar. 28, 2025

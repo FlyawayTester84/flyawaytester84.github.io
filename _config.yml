@@ -15,6 +15,7 @@ description: >
 
 include: 
   - _pages
+  - _files
 
 
 # Build settings
