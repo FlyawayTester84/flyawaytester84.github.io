@@ -56,6 +56,7 @@ minima:
   skin: auto
   nav_pages:
     - _pages/research.md
+    - _pages/teaching.md
     - _pages/coursework.md
     - _pages/miscellanous.md
     - index.md
