@@ -16,5 +16,3 @@ Expository talks
 - *Geodesic flows and pseudo-Anosov flows*, Harvard Trivial Notions Seminar, Sept. 30, 2025
 - *Topological Lefschetz fibrations*, Harvard Trivial Notions Seminar, Mar. 25, 2025
 - *On the 11/8-conjecture*, Harvard Trivial Notions Seminar, Feb. 21, 2024
-
-### References

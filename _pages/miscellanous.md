@@ -5,3 +5,4 @@ permalink: /misc/
 ---
 
 ### Miscellanous page
+Under construction
